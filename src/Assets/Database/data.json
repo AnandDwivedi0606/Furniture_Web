@@ -1,0 +1,61 @@
+{
+  "maincategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Anand Dwivedi",
+      "id": 1
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0
+    }
+  ],
+  "brand": [
+    {
+      "id": 0
+    }
+  ],
+  "products": [
+    {
+      "id": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    }
+  ],
+  "newsletter": [
+    {
+      "id": 0
+    }
+  ],
+  "contactus": [
+    {
+      "id": 0
+    }
+  ],
+  "testimonial": [
+    {
+      "id": 0
+    }
+  ]
+}
